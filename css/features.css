@@ -27,3 +27,17 @@
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
+.features-card {
+  display: flex;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  background-color: #f4f4fd;
+  height: 112px;
+  align-items: center;
+  justify-content: center;
+}
+
+.features-card img {
+  align-items: center;
+}

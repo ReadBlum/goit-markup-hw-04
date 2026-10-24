@@ -34,3 +34,15 @@
 .footer .logo:focus .studio {
   color: #f4f4fd;
 }
+
+.footer-many {
+  display: flex;
+}
+
+.footer-logo {
+  margin-right: 120px;
+}
+
+.social-media-text {
+  margin-bottom: 16px;
+}
