@@ -7,16 +7,6 @@ a {
   text-decoration: none;
 }
 
-button:hover,
-button:focus {
-  color: #404bbf;
-}
-
-a:hover,
-a:focus {
-  color: #404bbf;
-}
-
 .web-blue {
   color: #4d5ae5;
 }
