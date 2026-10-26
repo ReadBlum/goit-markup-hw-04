@@ -36,6 +36,7 @@
   height: 112px;
   align-items: center;
   justify-content: center;
+  margin-bottom: 8px;
 }
 
 .features-card img {

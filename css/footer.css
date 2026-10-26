@@ -43,10 +43,6 @@
   margin-right: 120px;
 }
 
-.social-media-text {
-  margin-bottom: 16px;
-}
-
 .footer-socials-list {
   gap: 16px;
   margin-top: 0;
@@ -71,4 +67,7 @@
   margin-bottom: 16px;
   font-weight: 500;
   letter-spacing: 0.02em;
+  margin-bottom: 16px;
+  line-height: 1.5;
+  color: #ffffff;
 }
